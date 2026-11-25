@@ -1,0 +1,32 @@
+# --- secrets (never commit) ---
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+!.streamlit/secrets.toml.example
+*.pem
+*.key
+
+# --- python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# --- runtime artefacts (regenerated) ---
+storage/chroma/
+storage/bm25/
+storage/uploads/
+storage/audit/
+.cache/
+# eval/reports/** is intentionally NOT ignored: evaluation logs are committed by CI.
+
+# --- model caches & local logs ---
+models/
+.hf/
+*.log
