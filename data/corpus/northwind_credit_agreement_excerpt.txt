@@ -1,0 +1,100 @@
+NORTHWIND INDUSTRIAL GROUP, INC.
+CREDIT AGREEMENT - EXCERPT
+Dated as of June 30, 2024
+Among Northwind Industrial Group, Inc., as Borrower, the Lenders party hereto,
+and Meridian Trust Bank, N.A., as Administrative Agent.
+
+ARTICLE I - DEFINITIONS
+
+"Consolidated EBITDA" means, for any period, consolidated net income plus consolidated interest
+expense, taxes, depreciation and amortization, and non-recurring restructuring charges, determined
+in accordance with GAAP.
+
+"Consolidated Net Leverage Ratio" means, as of any date of determination, the ratio of
+(a) Consolidated Funded Indebtedness minus Unrestricted Cash to (b) Consolidated EBITDA for the
+trailing four fiscal quarters.
+
+"Consolidated Interest Coverage Ratio" means, for any period, the ratio of Consolidated EBITDA to
+Consolidated Interest Expense for such period.
+
+ARTICLE II - THE CREDITS
+
+Section 2.1 Revolving Credit Facility. Subject to the terms hereof, the Lenders severally agree to
+make revolving loans to the Borrower in an aggregate principal amount not to exceed
+$1,250,000,000 at any time outstanding. The Revolving Credit Facility matures on June 30, 2031.
+
+Section 2.2 Term Loan B. The Lenders have made a term loan to the Borrower in the original
+principal amount of $600,000,000. The Term Loan B matures on March 15, 2029 and amortizes at 1.0%
+of original principal per annum.
+
+Section 2.7 Applicable Margin and Fees. Loans bear interest at Adjusted Term SOFR plus 1.25% per
+annum at the Company's current pricing level. The applicable margin grid ranges from 1.00% to 1.75%
+per annum and is determined quarterly from the Consolidated Net Leverage Ratio. A commitment fee of
+0.20% per annum accrues on the average daily undrawn portion of the Revolving Credit Facility.
+
+Section 2.9 Voluntary Prepayment. The Borrower may prepay the Term Loan B at any time without
+premium or penalty, subject to three business days' prior notice.
+
+ARTICLE VII - NEGATIVE COVENANTS
+
+Section 7.1 Maximum Leverage. The Borrower shall not permit the Consolidated Net Leverage Ratio, as
+of the end of any fiscal quarter, to exceed 3.50 to 1.00.
+
+Section 7.2 Minimum Interest Coverage. The Borrower shall not permit the Consolidated Interest
+Coverage Ratio for any period of four consecutive fiscal quarters to be less than 2.75 to 1.00.
+
+Section 7.3 Restricted Payments. The Borrower shall not make restricted payments in any fiscal year
+in an aggregate amount exceeding $250,000,000 plus 50% of Excess Cash Flow for the immediately
+preceding fiscal year, so long as no Default exists and the Consolidated Net Leverage Ratio is not
+greater than 3.00 to 1.00 on a pro forma basis.
+
+Section 7.4 Indebtedness. The Borrower may incur additional unsecured indebtedness up to an
+aggregate basket of $400,000,000 for permitted acquisitions, plus a general basket of $150,000,000.
+
+Section 7.5 Asset Sales. The Borrower shall not consummate asset sales in any fiscal year in excess
+of $300,000,000 in aggregate consideration without Lender consent, other than sales of inventory in
+the ordinary course of business.
+
+Section 7.6 Minimum Liquidity. The Borrower shall maintain at all times unrestricted cash plus
+revolving commitments available for drawing of not less than $150,000,000.
+
+Section 7.7 Negative Pledge. The Borrower shall not create liens on any property or assets other
+than permitted liens, including purchase-money liens and liens existing on the Closing Date.
+
+Section 7.8 Springing Lien Requirement. If the Consolidated Net Leverage Ratio exceeds 2.75 to
+1.00, the Borrower shall, within 45 days, grant first-priority liens on substantially all assets to
+the Administrative Agent for the ratable benefit of the Lenders.
+
+ARTICLE VIII - EVENTS OF DEFAULT
+
+Section 8.1 Payment Default. Failure to pay any principal of any loan when due, or failure to pay
+interest, fees or other amounts within five (5) business days after the due date.
+
+Section 8.2 Reporting Default. Failure to deliver financial statements or a compliance certificate
+when required, if such failure continues for thirty (30) days after written notice from the
+Administrative Agent.
+
+Section 8.3 Cross-Default. Any other indebtedness of the Borrower or its subsidiaries in an
+aggregate principal amount exceeding $50,000,000 becomes due and payable prior to its stated
+maturity as a result of a default.
+
+Section 8.4 Change of Control. Upon a change of control, each Lender may require the Borrower to
+repurchase its loans at 101% of the principal amount plus accrued interest.
+
+Section 8.5 Insolvency. The Borrower or any material subsidiary commences a voluntary proceeding
+under any bankruptcy or insolvency law.
+
+ARTICLE IX - GUARANTORS
+
+Each subsidiary that accounts for 10% or more of Consolidated EBITDA shall execute a guarantee and
+become a Guarantor within 60 days after becoming a material subsidiary.
+
+COMPLIANCE CERTIFICATE - FISCAL YEAR ENDED DECEMBER 31, 2024
+
+1. Consolidated Net Leverage Ratio: 1.61 to 1.00 (covenant maximum 3.50 to 1.00) - COMPLIANT.
+2. Consolidated Interest Coverage Ratio: 6.8 to 1.00 (covenant minimum 2.75 to 1.00) - COMPLIANT.
+3. Minimum Liquidity: $612,000,000 of unrestricted cash and availability (minimum $150,000,000) -
+   COMPLIANT.
+4. Restricted Payments made in fiscal 2024: $184,000,000 (basket $250,000,000) - COMPLIANT.
+
+Certified by Marcus Ohara, Executive Vice President and Chief Financial Officer.
